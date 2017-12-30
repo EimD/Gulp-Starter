@@ -1,0 +1,14 @@
+@import url('//fonts.googleapis.com/css?family=Open+Sans:400,600');
+@import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import "_reset";
+@import "_brand";
+@include reset-css;
+
+body {
+    background: rgb(126, 126, 126);
+    font-family: $font-family;
+}
+
+.wrapper {
+    background: rgb(45, 153, 45);
+}

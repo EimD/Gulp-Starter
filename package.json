@@ -1,0 +1,16 @@
+{
+  "name": "gulpplayground",
+  "version": "1.0.0",
+  "description": "testing gulp with sass",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
